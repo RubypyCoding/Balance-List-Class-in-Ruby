@@ -53,9 +53,3 @@ balance_1.current_balance_per_month
 #Test Driven Development - TDD
 $ rspec
 ```
-
-
-
-</xmp>
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-</html>
